@@ -1,0 +1,13 @@
+name: scraping_environment
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - beautifulsoup4
+  - requests
+  - openai
+  - dotenv
